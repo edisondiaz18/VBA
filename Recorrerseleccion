@@ -1,0 +1,3 @@
+For each cel in selection
+  debug.print cel.value
+next cel
